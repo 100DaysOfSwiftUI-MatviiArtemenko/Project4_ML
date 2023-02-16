@@ -32,7 +32,7 @@ struct ContentView: View {
                     .ignoresSafeArea()
                 
                 VStack {
-                    Text("What is the best time for you to wake up?")
+                    Text("SleepTime.")
                         .padding(10)
                         .frame(width: 350)
                         .background(.thickMaterial)
@@ -43,7 +43,7 @@ struct ContentView: View {
                     
                     HStack {
                         VStack(alignment: .leading, spacing: 10) {
-                            Text("Coffee you drank in a day")
+                            Text("Coffee you drink a day")
                                 .padding(10)
                                 .font(.title2)
                             Spacer()
@@ -54,7 +54,7 @@ struct ContentView: View {
                         Divider()
                         
                         VStack(alignment: .trailing, spacing: 10) {
-                            Text("How much do you want to sleep?")
+                            Text("How much do I want to sleep?")
                                 .font(.title2)
                             Spacer()
                             Stepper("\(amountOfSleep.formatted()) h", value: $amountOfSleep, in: 4...12, step: 0.25)
@@ -77,7 +77,7 @@ struct ContentView: View {
                         .cornerRadius(20)
                     Spacer()
                     
-                    Button("Calculate your sleep time") {
+                    Button("when should I go to bed?") {
                         culculateSleepTime()
                     }
                     .padding(20)
