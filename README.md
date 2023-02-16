@@ -32,8 +32,12 @@
 
 <p align="center">
   <img 
-    height="700"
+  width = 300
     src="1.png"
+  >
+  <img 
+  width = 300
+    src="2.png"
   >
 </p>
 <!-- add screenshots here!!! -->
