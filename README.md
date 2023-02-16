@@ -32,7 +32,8 @@
 
 <p align="center">
   <img 
-   src="1.png"
+    height="700"
+    src="1.png"
   >
 </p>
 <!-- add screenshots here!!! -->
