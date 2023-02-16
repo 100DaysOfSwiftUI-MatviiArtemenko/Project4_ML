@@ -30,6 +30,16 @@
 ---
 ## &nbsp; 📲 Screenshoot
 
+<p align="center">
+  <img 
+  width = 300
+    src="1.png"
+  >
+  <img 
+  width = 300
+    src="2.png"
+  >
+</p>
 <!-- add screenshots here!!! -->
 ---
 ##  &nbsp; 🔍 &nbsp; Resources 
