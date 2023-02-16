@@ -40,9 +40,10 @@
     src="2.png"
   >
 </p>
-<!-- add screenshots here!!! -->
+
 ---
-##  &nbsp; 🔍 &nbsp; Resources 
+
+##  🔍 &nbsp; Resources 
 
 * [Hacking With Swift - BetterRest](https://www.hackingwithswift.com/books/ios-swiftui/betterrest-wrap-up)
 * [Apple documentation - DatePicker](https://developer.apple.com/documentation/swiftui/datepicker/)
